@@ -1,0 +1,17 @@
+﻿Построение начато 18.07.2020 8:40:12.
+     1>Проект "E:\алгоритмы\Mario\Mario\Mario.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "x64\Debug\Mario.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         Mario.vcxproj -> E:\алгоритмы\Mario\x64\Debug\Mario.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\Mario.unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\Mario.lastbuildstate".
+     1>Построение проекта "E:\алгоритмы\Mario\Mario\Mario.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.36

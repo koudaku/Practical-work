@@ -1,0 +1,13 @@
+﻿Построение начато 16.07.2020 18:37:30.
+     1>Проект "D:\visual studio 2010\Projects\Mario\Mario\Mario.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\Mario.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Game.cpp
+         Game.cpp
+     1>d:\visual studio 2010\projects\mario\mario\game.cpp(1): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+     1>Построение проекта "D:\visual studio 2010\Projects\Mario\Mario\Mario.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:00.11
